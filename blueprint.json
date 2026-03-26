@@ -1,6 +1,6 @@
 {
   "$schema": "https://playground.wordpress.net/blueprint-schema.json",
-  "landingPage": "/quiz/",
+  "landingPage": "/Procurement Quiz Demo/",
   "steps": [
     {
       "step": "importWordPressFiles",
