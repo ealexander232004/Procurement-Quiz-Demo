@@ -1,0 +1,13 @@
+{
+  "$schema": "https://playground.wordpress.net/blueprint-schema.json",
+  "landingPage": "/quiz/",
+  "steps": [
+    {
+      "step": "importWordPressFiles",
+      "wordPressFilesZip": {
+        "resource": "url",
+        "url": "https://raw.githubusercontent.com/ealexander232004/Procurement-Quiz-Demo/main/playground-demo.zip"
+      }
+    }
+  ]
+}
