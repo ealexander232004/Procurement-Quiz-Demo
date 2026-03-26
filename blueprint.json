@@ -6,7 +6,7 @@
       "step": "importWordPressFiles",
       "wordPressFilesZip": {
         "resource": "url",
-        "url": "https://raw.githubusercontent.com/ealexander232004/Procurement-Quiz-Demo/main/wordpress-playground (5).zip"
+        "url": "https://raw.githubusercontent.com/ealexander232004/Procurement-Quiz-Demo/main/wordpress-playground (6).zip"
       }
     }
   ]
